@@ -1,0 +1,246 @@
+{
+  "uid" : "381823e91679e7bd",
+  "name" : "分数线查询流程",
+  "fullName" : "test_case.test_search#test_search",
+  "historyId" : "73142408811f790157a0ca98c42587bb",
+  "time" : {
+    "start" : 1677387340033,
+    "stop" : 1677387350574,
+    "duration" : 10541
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1677387338719,
+      "stop" : 1677387340033,
+      "duration" : 1314
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "启动Chrome浏览器",
+      "time" : {
+        "start" : 1677387340033,
+        "stop" : 1677387340033,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "访问学校页面",
+      "time" : {
+        "start" : 1677387340033,
+        "stop" : 1677387344252,
+        "duration" : 4219
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "鼠标悬停到招生就业",
+      "time" : {
+        "start" : 1677387344252,
+        "stop" : 1677387344548,
+        "duration" : 296
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击招生",
+      "time" : {
+        "start" : 1677387344548,
+        "stop" : 1677387344628,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "切换句柄",
+      "time" : {
+        "start" : 1677387344628,
+        "stop" : 1677387344646,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "鼠标悬停到招生就业",
+      "time" : {
+        "start" : 1677387344646,
+        "stop" : 1677387349845,
+        "duration" : 5199
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击历年录取",
+      "time" : {
+        "start" : 1677387349845,
+        "stop" : 1677387350129,
+        "duration" : 284
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击16年分数线",
+      "time" : {
+        "start" : 1677387350129,
+        "stop" : 1677387350210,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "切换句柄",
+      "time" : {
+        "start" : 1677387350210,
+        "stop" : 1677387350225,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "断言其他类分数线",
+      "time" : {
+        "start" : 1677387350225,
+        "stop" : 1677387350574,
+        "duration" : 349
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1677387350574,
+      "stop" : 1677387352688,
+      "duration" : 2114
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5H4PP6DN"
+  }, {
+    "name" : "thread",
+    "value" : "15124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'move_to': {'by': 'link text', 'value': '招生就业'}, 'click': {'by': 'link text', 'value': '招生'}, 'move_to1': {'by': 'xpath', 'value': '//div[@frag=\"窗口4\"]'}, 'click1': {'by': 'link text', 'value': '历年录取'}, 'click2': {'by': 'link text', 'value': '2016年单考单招学院各大类录取分数及名次'}}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "381823e91679e7bd.json",
+  "parameterValues" : [ "{'move_to': {'by': 'link text', 'value': '招生就业'}, 'click': {'by': 'link text', 'value': '招生'}, 'move_to1': {'by': 'xpath', 'value': '//div[@frag=\"窗口4\"]'}, 'click1': {'by': 'link text', 'value': '历年录取'}, 'click2': {'by': 'link text', 'value': '2016年单考单招学院各大类录取分数及名次'}}" ]
+}
