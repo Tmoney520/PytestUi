@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "教学日历核对流程",
+    "uid" : "6018ad07e16ae4ec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1677375323082,
+      "stop" : 1677375338493,
+      "duration" : 15411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "分数线查询流程",
+    "uid" : "ea234af6ba1a2fcd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1677375342158,
+      "stop" : 1677375349912,
+      "duration" : 7754
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'move_to': {'by': 'link text', 'value': '招生就业'}, 'click': {'by': 'link text', 'value': '招生'}, 'move_to1': {'by': 'xpath', 'value': '//div[@frag=\"窗口4\"]'}, 'click1': {'by': 'link text', 'value': '历年录取'}, 'click2': {'by': 'link text', 'value': '2016年单考单招学院各大类录取分数及名次'}}" ]
+  } ]
+}

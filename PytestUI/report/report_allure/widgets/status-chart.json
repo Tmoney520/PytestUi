@@ -1,0 +1,21 @@
+[ {
+  "uid" : "ea234af6ba1a2fcd",
+  "name" : "分数线查询流程",
+  "time" : {
+    "start" : 1677375342158,
+    "stop" : 1677375349912,
+    "duration" : 7754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6018ad07e16ae4ec",
+  "name" : "教学日历核对流程",
+  "time" : {
+    "start" : 1677375323082,
+    "stop" : 1677375338493,
+    "duration" : 15411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

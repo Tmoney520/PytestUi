@@ -1,0 +1,16 @@
+-
+  move_to:
+    by: link text
+    value: 招生就业
+  click:
+    by: link text
+    value: 招生
+  move_to1:
+    by: xpath
+    value: //div[@frag="窗口4"]
+  click1:
+    by: link text
+    value: 历年录取
+  click2:
+    by: link text
+    value: 2016年单考单招学院各大类录取分数及名次
