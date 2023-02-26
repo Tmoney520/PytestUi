@@ -4,35 +4,35 @@
   "children" : [ {
     "name" : "LAPTOP-5H4PP6DN",
     "children" : [ {
-      "name" : "1020-MainThread",
+      "name" : "15124-MainThread",
       "children" : [ {
-        "name" : "教学日历核对流程",
-        "uid" : "fc9e262947451d0d",
-        "parentUid" : "f7bf1833650e51bef9ec93ceaf912c96",
-        "status" : "passed",
-        "time" : {
-          "start" : 1677383234698,
-          "stop" : 1677383251120,
-          "duration" : 16422
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "分数线查询流程",
-        "uid" : "3f9edd5038aed9cd",
-        "parentUid" : "f7bf1833650e51bef9ec93ceaf912c96",
+        "uid" : "381823e91679e7bd",
+        "parentUid" : "1566c3ac57c6061ee114500ce3f446f7",
         "status" : "passed",
         "time" : {
-          "start" : 1677383254614,
-          "stop" : 1677383262859,
-          "duration" : 8245
+          "start" : 1677387340033,
+          "stop" : 1677387350574,
+          "duration" : 10541
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "{'move_to': {'by': 'link text', 'value': '招生就业'}, 'click': {'by': 'link text', 'value': '招生'}, 'move_to1': {'by': 'xpath', 'value': '//div[@frag=\"窗口4\"]'}, 'click1': {'by': 'link text', 'value': '历年录取'}, 'click2': {'by': 'link text', 'value': '2016年单考单招学院各大类录取分数及名次'}}" ]
+      }, {
+        "name" : "教学日历核对流程",
+        "uid" : "a6973ea30af9f149",
+        "parentUid" : "1566c3ac57c6061ee114500ce3f446f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677387319420,
+          "stop" : 1677387336594,
+          "duration" : 17174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
       } ],
-      "uid" : "f7bf1833650e51bef9ec93ceaf912c96"
+      "uid" : "1566c3ac57c6061ee114500ce3f446f7"
     } ],
     "uid" : "f4df7c1bccc0d81fde812e188c8ac2ad"
   } ]

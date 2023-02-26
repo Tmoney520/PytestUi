@@ -7,13 +7,13 @@
       "name" : "test_goods",
       "children" : [ {
         "name" : "教学日历核对流程",
-        "uid" : "fc9e262947451d0d",
+        "uid" : "a6973ea30af9f149",
         "parentUid" : "963dca1c098ff9300e273fd704230c54",
         "status" : "passed",
         "time" : {
-          "start" : 1677383234698,
-          "stop" : 1677383251120,
-          "duration" : 16422
+          "start" : 1677387319420,
+          "stop" : 1677387336594,
+          "duration" : 17174
         },
         "flaky" : false,
         "newFailed" : false,
@@ -24,13 +24,13 @@
       "name" : "test_search",
       "children" : [ {
         "name" : "分数线查询流程",
-        "uid" : "3f9edd5038aed9cd",
+        "uid" : "381823e91679e7bd",
         "parentUid" : "549c23d3cbdac025e98a6ba9aec33195",
         "status" : "passed",
         "time" : {
-          "start" : 1677383254614,
-          "stop" : 1677383262859,
-          "duration" : 8245
+          "start" : 1677387340033,
+          "stop" : 1677387350574,
+          "duration" : 10541
         },
         "flaky" : false,
         "newFailed" : false,
