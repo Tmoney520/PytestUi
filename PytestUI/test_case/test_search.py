@@ -10,7 +10,7 @@ from base_key.keyword import Keys
 from utils.read_yaml import yaml_data
 
 @allure.title('分数线查询流程')
-@pytest.mark.parametrize("data",yaml_data("../test_data/search.yaml"))
+@pytest.mark.parametrize("data",yaml_data("./test_data/search.yaml"))
 def test_search(browser,data):
     with allure.step('启动Chrome浏览器'):
         driver = Keys(browser)
