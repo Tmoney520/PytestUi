@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Feb 26 12:55:40 CST 2023","Sun Feb 26 12:55:50 CST 2023","10541","test_case","test_search","","","","分数线查询流程",""
-"passed","Sun Feb 26 12:55:19 CST 2023","Sun Feb 26 12:55:36 CST 2023","17174","test_case","test_goods","","","","教学日历核对流程",""
+"passed","Fri Mar 03 15:08:24 CST 2023","Fri Mar 03 15:08:37 CST 2023","13843","test_case","test_goods","","","","教学日历核对流程",""
+"passed","Fri Mar 03 15:08:41 CST 2023","Fri Mar 03 15:08:49 CST 2023","8222","test_case","test_search","","","","分数线查询流程",""

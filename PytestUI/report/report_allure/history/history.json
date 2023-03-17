@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a6973ea30af9f149",
+      "uid" : "371cd667bef991a6",
       "status" : "passed",
       "time" : {
-        "start" : 1677387319420,
-        "stop" : 1677387336594,
-        "duration" : 17174
+        "start" : 1677827304063,
+        "stop" : 1677827317906,
+        "duration" : 13843
       }
     } ]
   },
@@ -28,12 +28,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "381823e91679e7bd",
+      "uid" : "7ecaa2ef46ced2c6",
       "status" : "passed",
       "time" : {
-        "start" : 1677387340033,
-        "stop" : 1677387350574,
-        "duration" : 10541
+        "start" : 1677827321475,
+        "stop" : 1677827329697,
+        "duration" : 8222
       }
     } ]
   }

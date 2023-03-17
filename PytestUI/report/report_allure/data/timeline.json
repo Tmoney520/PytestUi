@@ -4,35 +4,35 @@
   "children" : [ {
     "name" : "LAPTOP-5H4PP6DN",
     "children" : [ {
-      "name" : "15124-MainThread",
+      "name" : "35988-MainThread",
       "children" : [ {
-        "name" : "分数线查询流程",
-        "uid" : "381823e91679e7bd",
-        "parentUid" : "1566c3ac57c6061ee114500ce3f446f7",
-        "status" : "passed",
-        "time" : {
-          "start" : 1677387340033,
-          "stop" : 1677387350574,
-          "duration" : 10541
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'move_to': {'by': 'link text', 'value': '招生就业'}, 'click': {'by': 'link text', 'value': '招生'}, 'move_to1': {'by': 'xpath', 'value': '//div[@frag=\"窗口4\"]'}, 'click1': {'by': 'link text', 'value': '历年录取'}, 'click2': {'by': 'link text', 'value': '2016年单考单招学院各大类录取分数及名次'}}" ]
-      }, {
         "name" : "教学日历核对流程",
-        "uid" : "a6973ea30af9f149",
-        "parentUid" : "1566c3ac57c6061ee114500ce3f446f7",
+        "uid" : "371cd667bef991a6",
+        "parentUid" : "283b361f6ccfd7f2e2a4e1498efd9803",
         "status" : "passed",
         "time" : {
-          "start" : 1677387319420,
-          "stop" : 1677387336594,
-          "duration" : 17174
+          "start" : 1677827304063,
+          "stop" : 1677827317906,
+          "duration" : 13843
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
+      }, {
+        "name" : "分数线查询流程",
+        "uid" : "7ecaa2ef46ced2c6",
+        "parentUid" : "283b361f6ccfd7f2e2a4e1498efd9803",
+        "status" : "passed",
+        "time" : {
+          "start" : 1677827321475,
+          "stop" : 1677827329697,
+          "duration" : 8222
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'move_to': {'by': 'link text', 'value': '招生就业'}, 'click': {'by': 'link text', 'value': '招生'}, 'move_to1': {'by': 'xpath', 'value': '//div[@frag=\"窗口4\"]'}, 'click1': {'by': 'link text', 'value': '历年录取'}, 'click2': {'by': 'link text', 'value': '2016年单考单招学院各大类录取分数及名次'}}" ]
       } ],
-      "uid" : "1566c3ac57c6061ee114500ce3f446f7"
+      "uid" : "283b361f6ccfd7f2e2a4e1498efd9803"
     } ],
     "uid" : "f4df7c1bccc0d81fde812e188c8ac2ad"
   } ]
